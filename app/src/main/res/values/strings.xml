@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MY BRITAM</string>
+    <string name="Home">Home</string>
+    <string name="Insurance">Insurance</string>
+    <string name="Profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

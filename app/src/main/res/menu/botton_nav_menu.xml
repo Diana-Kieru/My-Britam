@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mihome"
+        android:icon="@drawable/ic_home_background"
+        android:title="@string/Home" />
+
+    <item
+        android:id="@+id/miinsurance"
+        android:icon="@drawable/ic_insurance_background"
+        android:title="@string/Insurance" />
+
+    <item
+        android:id="@+id/miperson"
+        android:icon="@drawable/ic_person_background"
+        android:title="@string/Profile" />
+
+</menu>
